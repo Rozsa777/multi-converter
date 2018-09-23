@@ -1,0 +1,35 @@
+body {
+  width: 400px;
+  height: 400px;
+  min-height: 400px;
+  padding: 10px;
+}
+
+#wrapper {
+  text-align: center;
+}
+
+.title {
+  font-size: 18px;
+}
+
+.mdl-button {
+  text-transform: none;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.textbox-area {
+  display: flex;
+  justify-content: center;
+}
+
+.lonlat {
+  width: 160px;
+}
+
+.first-box {
+  margin-right: 20px;
+}
