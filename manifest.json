@@ -1,5 +1,5 @@
 {
-  "name": "変換くん",
+  "name": "Multi-Converter",
   "version": "1.0.0",
   "manifest_version": 2,
   "description": "いろいろなデータの形式変換ツール",
@@ -8,7 +8,7 @@
   ],
   "browser_action": {
     "default_icon": "images/icon.png",
-    "default_title": "変換くん",
+    "default_title": "Multi-Converter",
     "default_popup": "index.html"
   },
   "icons": {
